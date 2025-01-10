@@ -1,4 +1,4 @@
-👋Hi! My name is Jacek Rudek and I'm a Computer Science student. I love working with computers and am really looking forward to taking on new projects and facing new challenges.
+👋Hi! My name is Jacek and I'm a Computer Science student. I love working with computers and am really looking forward to taking on new projects and facing new challenges.
 
 <h1 align:"center">Technical Skills 🛠️</h1>
 <p align="left">
