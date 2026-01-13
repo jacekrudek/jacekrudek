@@ -3,9 +3,6 @@
 <h1 align:"center">Technical Skills 🛠️</h1>
 <p align="left">
   <a target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin: 10px;"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin: 10px;"/>
   </a>
   <a target="_blank" rel="noreferrer">
